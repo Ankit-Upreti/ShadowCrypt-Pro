@@ -1,3 +1,10 @@
+<!-- Badges -->
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![PySide6](https://img.shields.io/badge/PySide6-%3E%3D6.0-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
+![Issues](https://img.shields.io/github/issues/Ankit-Upreti/ShadowCrypt-Pro)
+
 # ShadowCrypt Pro 🔐  
 A modern, professional AES-GCM file encryption application with a PySide6 GUI.
 
